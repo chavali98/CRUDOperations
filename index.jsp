@@ -1,3 +1,5 @@
+/*This java project dynamically handles DDL and DML operators.It allows you to dynamically create a table of arbitary size(variable number of colmns)
+and datatype.Based on the datatype an appropriate table is created which is manipulated via CRUD operators*/
 <%-- 
     Document   : index
     Created on : Jan 7, 2020, 3:06:03 PM
